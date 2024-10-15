@@ -1,0 +1,1 @@
+This is a Drug Store Application that allows users to register a doctor or a patient. Doctors can write a prescription for a patient and patients can then get their prescription filled at a pharmacy. The application calculates drug cost depending on which pharmacy fills the prescription
